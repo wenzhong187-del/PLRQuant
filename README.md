@@ -74,7 +74,7 @@
 
 # Bash
 
-git clone https://github.com/YourUsername/PLRQuant.git
+git clone https://github.com/PLRQuant.git
 
 # cd PLRQuant
 
