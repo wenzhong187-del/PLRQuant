@@ -12,11 +12,7 @@
 
 # 本研究建立了一个面向动态瞳孔对光反射（PLR）视频场景的自动化分割与量化分析框架 PLRQuant。通过改进 UDTransNet 架构并集成时域上下文模块（TCM），显著提高了在复杂采集条件下（人类与动物、近红外与可见光、静态与动态）PLR 动力学特征测量的稳定性与可重复性。
 
-# !\[alt text](Framework.jpg)
 
-# 
-
-# (注：请确保根目录下有 Framework.jpg 图片，展示你的模型架构)
 
 # 🌟 核心贡献 (Core Contributions)
 
@@ -132,27 +128,7 @@ python train\_kfold.py
 
 # Max Velocity (MCV)	最大收缩速度 (mm/s)，反映副交感神经活性
 
-# 📈 实验结果展示 (Visualizations)
 
-# 原始帧 (Original)	分割边界 (Segmentation)	动力学曲线 (Dynamics Curve)
-
-# !\[alt text](https://via.placeholder.com/200x200?text=Mouse\_Eye)
-
-# !\[alt text](https://via.placeholder.com/200x200?text=Boundary\_Extraction)
-
-# !\[alt text](https://via.placeholder.com/200x150?text=PLR\_Curve)
-
-# 📝 引用 (Citation)
-
-# 如果你在研究中使用了本框架，请引用我们的工作：
-
-# code
-
-# Bibtex
-
-# @article{PLRQuant2024,
-
-# &#x20; title={Automated Framework for Dynamic Pupillary Light Reflex Video Segmentation and Quantitative Analysis via Enhanced UDTransNet},
 
 
 
