@@ -154,13 +154,6 @@ python train\_kfold.py
 
 # &#x20; title={Automated Framework for Dynamic Pupillary Light Reflex Video Segmentation and Quantitative Analysis via Enhanced UDTransNet},
 
-# &#x20; author={Your Name and etc.},
-
-# &#x20; journal={Your Target Journal},
-
-# &#x20; year={2024}
-
-# }
 
 
 
